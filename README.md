@@ -4,20 +4,18 @@ This is a starter project for the Lesson here: https://github.com/Make-School-Co
 
 ## Getting started 
 
-Download the sample project:
+Downlaod this repo. 
 
-- [React Product Lister](https://github.com/Make-School-Labs/react-product-list)
-
-Read the notes below then trya nd solve each of the [challenges](#challenges) in the **Challenges** section. 
+Read the notes below then try and solve each of the challenges in the [**Challenges**](#challenges) section. 
 
 Use components to your advantage for this assignment. Whenever possible make a component to simplify your work. 
 
-The starter project provides a `categories` array and an `inventory` array in `inventory.js`. You can import these into any module with: 
+The starter project provides a `categories` array and an `inventory` array in `inventory.js`. You can import these into any component/module with: 
 
 `import inventory, { categories } from './inventory'`
 
 - `categories`: `[String]` an Array of category name Strings
-- `inventory`: `[Object]` an Array of Objects with the following properties
+- `inventory`: `[Product/Object]` an Array of Objects with the following properties
   - `id`: `Number` a unique number id
   - `name`: `String` a String name of product
   - `description`: `String` a String description of product
@@ -48,24 +46,22 @@ The stretch challenges use [`Array.reduce()`](https://developer.mozilla.org/en-U
 
 ## Challenges 
 
-Your goal is to follow the steps below and solve the challenges. 
+Your goal is to follow the steps below and solve the challenges.  
 
-You will fork this repo and start working on your fork. 
-
-**You must commit each time you sit down to work on this project!**
+**Make a commit after solving each challenge**
 
 This challenge should take about 3 hours. Be sure to plan that amount of time to spend on the challenges here. 
 
 **Getting Started**
 
-1. Fork this Repo.
+1. Fork/download/clone this Repo.
 1. Post a link to the progress tracker for class.
 1. `npm install` to install dependencies
 1. `npm start` to run the project at [http://localhost:3000](http://localhost:3000)
 
 From here as you work you should see changes refresh in the browser as you save files. If there is an error you will see this in the browser.
 
-This project was bootstrapped with Create React App see the notes [here](notes/create-react-app-notes.md) for more information. 
+This project was bootstrapped with Create React reference of the available [scripts here](#available-scripts).
 
 ### Coding Challenges
 
@@ -198,6 +194,8 @@ Add a shopping cart. The cart should display a list of items that have been adde
 ## Some Visuals
 
 Some people like pictures. Here are a few images showing what the project might look like when you are finished, with some notes. 
+
+The images below show all of the challenges solved including the stretch challenges. At each step you'll get one piece of the images below. 
 
 ![picture-1](notes/picture-1.png)
 
