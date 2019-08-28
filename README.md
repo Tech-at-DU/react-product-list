@@ -203,10 +203,6 @@ Some people like pictures. Here are a few images showing what the project might 
 
 ![picture-2](notes/picture-2.png)
 
-![picture-3](notes/picture-3.png)
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
