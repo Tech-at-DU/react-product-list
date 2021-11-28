@@ -54,7 +54,7 @@ This challenge should take about 3 hours. Be sure to plan that amount of time to
 
 **Getting Started**
 
-1. Fork/download/clone this Repo.
+1. Clone this Repo.
 1. Post a link to the progress tracker for class.
 1. `npm install` to install dependencies
 1. `npm start` to run the project at [http://localhost:3000](http://localhost:3000)
